@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyansh Sehgal</h1>
-- 🌱 I’m currently learning ** C , Python and Web development **
+- 🌱 I’m currently learning ** Web development **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
