@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **robotics and Stark-inspired tech – let's turn science fiction into reality, one circuit at a time! 🤖⚙️🔬**
 
-- 👨‍💻 All of my projects are available at <html><a href="https://divyanshsehgal.xyz/" target="_blank">divyanshsehgal.xyz</a></html>
+- 👨‍💻 All of my projects are available at [divyanshsehgal.xyz](https://divyanshsehgal.xyz/)
 
 - ⚡ Fun fact **"In the tech world, bugs are like shadows – they're always lurking, and the deeper you go, the darker they become. 🐞🕷️🌑"**
 
