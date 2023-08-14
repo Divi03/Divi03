@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Divyansh Sehgal</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Passionate engineer and tech enthusiast on a thrilling journey!</h3>
 
-- 🔭 I’m currently working on **backend**
+- 🔭 I’m currently working on **my backend skills**
 
 - 👯 I’m looking to collaborate on **robotics and Stark-inspired tech – let's turn science fiction into reality, one circuit at a time! 🤖⚙️🔬**
 
-- 👨‍💻 All of my projects are available at [divyanshsehgl.xyz](https://divyanshsehgal.xyz/)
+- 👨‍💻 All of my projects are available at <a href="https://divyanshsehgal.xyz/" target="_blank">divyanshsehgal.xyz</a>
 
 - ⚡ Fun fact **"In the tech world, bugs are like shadows – they're always lurking, and the deeper you go, the darker they become. 🐞🕷️🌑"**
 
